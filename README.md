@@ -17,3 +17,7 @@ In this game, player picks a signal to throw and plays against a computer.
 **3. Start the game by assigning any PORT you like (e.g. 7000)**
 
 *1> rpsls:start(PORT).*
+
+**4. Open browser window and access the game with**
+
+*http://localhost:PORT*
